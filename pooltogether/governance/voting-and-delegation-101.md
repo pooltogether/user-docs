@@ -16,7 +16,7 @@ The POOL token governs the PoolTogether protocol. POOL token holders can:
 
 ### What’s right for me?
 
-Active governance participation might not be for everyone. It includes doing research, providing helpful feedback, coordinating with other delegates, and a certain time commitment to make educated decisions. On the other hand, you get to play an active role in growing the PoolTogether protocol.
+Active governance participation includes doing research, providing helpful feedback, coordinating with other governance participants, and a certain time commitment to make educated decisions. Therefor you get to play an active role in growing the PoolTogether protocol.
 
 Anyone can participate in decentralized governance. If you have questions or need help please don’t hesitate to [ask the community on Discord](https://pooltogether.com/discord).
 
@@ -38,9 +38,7 @@ Note: Onchain voting requires Ethereum transaction fees.
 
 ### What about POOL on other networks?
 
-POOL tokens on the Optimism or Polygon are only eligible to vote in off-chain governance. This includes decisions that don’t require moving treasury funds or upgrading the protocol.&#x20;
-
-All off-chain voting happens on the PoolTogether.eth Snapshot: [https://snapshot.org/#/pooltogether.eth/](https://snapshot.org/#/pooltogether.eth/)
+POOL tokens on the Optimism or Polygon are not included in protocol governance. However, they can participate in offchain governance, like signalling. All offchain voting happens on the [PoolTogether.eth Snapshot](https://snapshot.org/#/pooltogether.eth/).
 
 ### How do I know when new proposals are up?
 
@@ -62,7 +60,7 @@ You can see all Delegate Proposals [in this thread](https://gov.pooltogether.com
 
 ### How do I delegate?
 
-You can delegate the voting weight of your POOL tokens via [Sybil](https://sybil.org/#/delegates/pool) or [Tally](https://www.tally.xyz/governance/eip155:1:0xB3a87172F555ae2a2AB79Be60B336D2F7D0187f0) (both tools have the same outcome).
+You can delegate the voting weight of your POOL tokens via [Sybil](https://sybil.org/#/delegates/pool) or [Tally](https://www.tally.xyz/gov/pooltogether) (both tools have the same outcome).
 
 If you don’t want to delegate your POOL tokens anymore, you can take your delegation back anytime by delegating to yourself.
 
