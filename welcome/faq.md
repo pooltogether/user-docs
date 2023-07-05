@@ -68,7 +68,7 @@ Every prize pool has a different way of distributing prizes. Some Prize Pools ha
 
 <summary>Can I lose my money? What are the risks? </summary>
 
-Assuming the protocol operates as intended, there is no risk of losing your money. In the two years the protocol has been live no depositors have ever lost money.&#x20;
+Assuming the protocol operates as intended, there is no risk of losing your money. In the four+ years the protocol has been live no depositors have ever lost money.&#x20;
 
 However, **there are still many risks inherent in using a blockchain-based protocol like this. These risks could result in losing some or all of your money.** Please read the "[Risks](../security/risks/)" page for more details on the specific risks you should be aware of.&#x20;
 
