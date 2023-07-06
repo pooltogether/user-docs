@@ -27,10 +27,11 @@ You don't need permission to work on anything, but it's always best to let other
 * [Participate in protocol governance](https://docs.pooltogether.com/pooltogether/governance) — Decentralized governance needs healthy participation
 * [Improve the user documentation](https://docs.pooltogether.com/) — Make PoolTogether easier to use by improving or adding to the user docs
 * [Provide feedback](https://discord.com/channels/629836507280048129/908437482964668436) — Use the #feedback channel on Discord and help improve PoolTogether
+* [Help others](https://discord.com/channels/629836507280048129/711951593343418439) — Be a helping hand in the community's #help channel on Discord
 * [Create or improve content](https://discord.com/channels/629836507280048129/945969747181314088) — Create new articles, make tweaks to what's here or suggest something new
 * [Request a feature](https://pooltogether.canny.io/) — Let us know about any ideas you have for a new feature or design
 * [Work on bounties](https://app.dework.xyz/pooltogether/pool-bounties) — Work the community has identified that needs doing
-* [Add extensions](https://tools.pooltogether.com) — Add a dapp or tool to the extensions page
+* [Add extensions](https://tools.pooltogether.com) — Add a dapp or tool to the ecosystem page
 * [Create an interface](https://dev.pooltogether.com/protocol/next/introduction) — Build new interfaces and ways to use the protocol
 * [Report vulnerabilities](https://docs.pooltogether.com/security/bug-bounties) — Secure the protocol and disclose vulnerabilities through the Security Bounties Program
 * [Be creative](https://pooltogether.com/discord) — Join the community on Discord and share your ideas
