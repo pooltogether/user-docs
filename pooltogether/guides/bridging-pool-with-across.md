@@ -8,6 +8,10 @@ description: >-
 
 _This guide explains how to use Across, a third-party cross-chain bridge for L2s and rollups secured by UMA's optimistic oracle._&#x20;
 
+{% hint style="info" %}
+Disclaimer: You don’t need POOL in order to use PoolTogether.
+{% endhint %}
+
 ### **Step 1: Enter bridge details**
 
 Head to [across.to/bridge](https://across.to/bridge) and connect your wallet on the top right corner. Enter the bridge details accordingly.&#x20;
