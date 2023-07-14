@@ -48,9 +48,7 @@ To reflect your PoolTogether deposit, you will receive the [PTaUSDC](https://pol
 
 </details>
 
-| Ticker  | Contract Address                             |
-| ------- | -------------------------------------------- |
-| PTaUSDC | `0x6a304dFdb9f808741244b6bfEe65ca7B3b3A6076` |
+<table><thead><tr><th width="150">Ticker</th><th width="588.4285714285713">Contract Address</th></tr></thead><tbody><tr><td>PTaUSDC</td><td><code>0x6a304dFdb9f808741244b6bfEe65ca7B3b3A6076</code></td></tr></tbody></table>
 
 ### Checking for Prizes
 

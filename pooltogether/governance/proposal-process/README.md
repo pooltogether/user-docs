@@ -99,7 +99,7 @@ In case a proposal does not pass a governance vote, the proposal will not be exe
 
 ## Proposal Types
 
-<table><thead><tr><th>Proposal Type </th><th>Forum Title Format</th><th>Description</th><th>Quorum</th><th>Approval Threshold</th><th data-hidden></th></tr></thead><tbody><tr><td><strong>PTIP</strong> <br>PoolTogether Improvement Proposal</td><td>PTIP-&#x3C;Id>: <br><em>eg. PTIP-89:</em></td><td>Process for changing the protocol </td><td>1% (100,000 POOL)</td><td>51%</td><td></td></tr><tr><td><strong>PTBR</strong> <br><a href="pt-budget-requests.md">PoolTogether Budget Request</a></td><td>PTBR-X: Project/Team Name</td><td>Process for coordinating treasury funds</td><td>1% (100,000 POOL)</td><td>51%</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="340">Proposal Type </th><th width="188">Forum Title Format</th><th width="231">Description</th><th width="193">Quorum</th><th width="189">Approval Threshold</th><th data-hidden></th></tr></thead><tbody><tr><td><strong>PTIP</strong> <br>PoolTogether Improvement Proposal</td><td>PTIP-&#x3C;Id>: <br><em>eg. PTIP-89:</em></td><td>Process for changing the protocol </td><td>1% (100,000 POOL)</td><td>51%</td><td></td></tr><tr><td><strong>PTBR</strong> <br><a href="pt-budget-requests.md">PoolTogether Budget Request</a></td><td>PTBR-X: Project/Team Name</td><td>Process for coordinating treasury funds</td><td>1% (100,000 POOL)</td><td>51%</td><td></td></tr></tbody></table>
 
 ## **Acknowledgements**
 

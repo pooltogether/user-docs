@@ -10,10 +10,6 @@ A few options for buying POOL tokens are listed below:&#x20;
 
 ### Contract Addresses
 
-| Ticker | Chain                                                                                        | Contract Address                             |
-| ------ | -------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| $POOL  | [Ethereum](https://etherscan.io/token/0x0cec1a9154ff802e7934fc916ed7ca50bde6844e)            | `0x0cec1a9154ff802e7934fc916ed7ca50bde6844e` |
-| $POOL  | [Polygon](https://polygonscan.com/token/0x25788a1a171ec66Da6502f9975a15B609fF54CF6)          | `0x25788a1a171ec66Da6502f9975a15B609fF54CF6` |
-| $POOL  | [Optimism](https://optimistic.etherscan.io/token/0x395ae52bb17aef68c2888d941736a71dc6d4e125) | `0x395Ae52bB17aef68C2888d941736A71dC6d4e125` |
+<table><thead><tr><th width="150">Ticker</th><th>Chain</th><th width="450.2">Contract Address</th></tr></thead><tbody><tr><td>$POOL</td><td><a href="https://etherscan.io/token/0x0cec1a9154ff802e7934fc916ed7ca50bde6844e">Ethereum</a></td><td><code>0x0cec1a9154ff802e7934fc916ed7ca50bde6844e</code></td></tr><tr><td>$POOL</td><td><a href="https://polygonscan.com/token/0x25788a1a171ec66Da6502f9975a15B609fF54CF6">Polygon</a></td><td><code>0x25788a1a171ec66Da6502f9975a15B609fF54CF6</code></td></tr><tr><td>$POOL</td><td><a href="https://optimistic.etherscan.io/token/0x395ae52bb17aef68c2888d941736a71dc6d4e125">Optimism</a></td><td><code>0x395Ae52bB17aef68C2888d941736A71dC6d4e125</code></td></tr></tbody></table>
 
 ####

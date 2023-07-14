@@ -13,9 +13,7 @@ If you already have cryptocurrency in your Polygon wallet, you can easily swap a
 * [Matcha](https://matcha.xyz/markets/137/0x2791bca1f2de4661ed88a30c99a7a9449aa84174/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) (aggregates to find the best price)&#x20;
 * [Zapper](https://zapper.fi/token/polygon/0x2791bca1f2de4661ed88a30c99a7a9449aa84174/USDC) (aggregates to find the best price)
 
-| Ticker | Chain   | Contract Address                           |
-| ------ | ------- | ------------------------------------------ |
-| USDC   | Polygon | 0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174 |
+<table><thead><tr><th width="150">Ticker</th><th width="150">Chain</th><th width="445.33333333333337">Contract Address</th></tr></thead><tbody><tr><td>USDC</td><td>Polygon</td><td>0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174</td></tr></tbody></table>
 
 ### Fiat On-Ramps
 

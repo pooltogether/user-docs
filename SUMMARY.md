@@ -21,6 +21,7 @@
   * [Using PoolTogether via Coinbase App](pooltogether/guides/using-pooltogether-via-coinbase-app.md)
   * [Withdrawing USDC from Binance](pooltogether/guides/withdrawing-usdc-from-binance.md)
   * [PoolTogether Debit Card FAQ](pooltogether/guides/debitcard-faq.md)
+  * [Bridging POOL with Across](pooltogether/guides/bridging-pool-with-across.md)
   * [Getting involved](pooltogether/guides/getting-involved.md)
 * [Governance](pooltogether/governance/README.md)
   * [Proposal Process](pooltogether/governance/proposal-process/README.md)

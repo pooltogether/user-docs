@@ -16,13 +16,7 @@ The [PoolTogether Wins Tracker](https://t.me/PTWinsTracker\_bot) helps you to tr
 
 #### Command-List
 
-| Command  | Description                              |
-| -------- | ---------------------------------------- |
-| `/add`   | Add address to your watchlist (Max 5)    |
-| `/del`   | Delete address from your watchlist       |
-| `/check` | Check if you have won in the last draw   |
-| `/list`  | List addresses stored in your watchlist  |
-| `/help`  | Display commands                         |
+<table><thead><tr><th width="150">Command</th><th>Description</th></tr></thead><tbody><tr><td><code>/add</code></td><td>Add address to your watchlist (Max 5) </td></tr><tr><td><code>/del</code></td><td>Delete address from your watchlist </td></tr><tr><td><code>/check</code></td><td>Check if you have won in the last draw </td></tr><tr><td><code>/list</code></td><td>List addresses stored in your watchlist </td></tr><tr><td><code>/help</code></td><td>Display commands</td></tr></tbody></table>
 
 ![Setting up Prize Notifications on Telegram](<../../.gitbook/assets/Prize Notifications.png>)
 
@@ -34,16 +28,7 @@ Our Discord bot Pooly helps you to track your prizes. Send a DM [on our Discord 
 
 #### Command-List
 
-| Command                       | Description                                |
-| ----------------------------- | ------------------------------------------ |
-| `=add <wallet address>`       | Add a wallet to your list                  |
-| `=remove <wallet address>`    | Remove a wallet from your list             |
-| `=list`                       | List wallets on your list                  |
-| `=odds <amount>`              | Check the current odds of a deposit amount |
-| `=player <address>`           | Player history overview                    |
-| `=wins <address>`             | Find all the wins for a specific address   |
-| `=prizes <address> <draw id>` | Check prizes won for a specific draw       |
-| `pooly help`                  | List of all commands                       |
+<table><thead><tr><th width="331.84890109890114">Command</th><th width="325.3333333333333">Description</th></tr></thead><tbody><tr><td><code>=add &#x3C;wallet address></code> </td><td>Add a wallet to your list</td></tr><tr><td><code>=remove &#x3C;wallet address></code></td><td>Remove a wallet from your list</td></tr><tr><td><code>=list</code></td><td>List wallets on your list</td></tr><tr><td><code>=odds &#x3C;amount></code></td><td>Check the current odds of a deposit amount</td></tr><tr><td><code>=player &#x3C;address></code></td><td>Player history overview</td></tr><tr><td><code>=wins &#x3C;address></code></td><td>Find all the wins for a specific address</td></tr><tr><td><code>=prizes &#x3C;address> &#x3C;draw id></code></td><td>Check prizes won for a specific draw</td></tr><tr><td><code>pooly help</code></td><td>List of all commands</td></tr></tbody></table>
 
 ![Setting up Prize Notifications on Discord](<../../.gitbook/assets/Prize Notifications (3).png>)
 
@@ -51,19 +36,7 @@ Our Discord bot Pooly helps you to track your prizes. Send a DM [on our Discord 
 
 Pooly Bot can do more than just checking for prizes. Try any of the following commands in [#pooly-bot](https://discord.com/channels/629836507280048129/878246045048520704) on the [PoolTogether Discord server](https://pooltogether.com/discord).&#x20;
 
-| Command                        | Description                                      |
-| ------------------------------ | ------------------------------------------------ |
-| `=odds <amount> <network>`     | See the odds for any deposit amount              |
-| `=simulate <amount> <network>` | Project prize apr for 365 days deposited         |
-| `=player <address>`            | Player history overview                          |
-| `=wins <address>`              | Check an address for all-time wins               |
-| `=prizes <address> <draw>`     | Check prizes for an address from a specific draw |
-| `=lucky <draw-no>`             | Find the luckiest player for a certain draw      |
-| `=grandprize <draw-no>`        | Find the grandprize winners for a certain draw   |
-| `=tvl`                         | Total Value Locked for v4                        |
-| `=gas <network>`               | Check gas conditions on specified network        |
-| `=weekly`                      | Shows statistics for the last 7 days.            |
-| `=yield`                       | Returns statistics about the yield earned.       |
+<table><thead><tr><th width="150">Command</th><th>Description</th></tr></thead><tbody><tr><td><code>=odds &#x3C;amount> &#x3C;network></code></td><td>See the odds for any deposit amount</td></tr><tr><td><code>=simulate &#x3C;amount> &#x3C;network></code></td><td>Project prize apr for 365 days deposited</td></tr><tr><td><code>=player &#x3C;address></code></td><td>Player history overview</td></tr><tr><td><code>=wins &#x3C;address></code></td><td>Check an address for all-time wins</td></tr><tr><td><code>=prizes &#x3C;address> &#x3C;draw></code></td><td>Check prizes for an address from a specific draw</td></tr><tr><td><code>=lucky &#x3C;draw-no></code></td><td>Find the luckiest player for a certain draw</td></tr><tr><td><code>=grandprize &#x3C;draw-no></code></td><td>Find the grandprize winners for a certain draw</td></tr><tr><td><code>=tvl</code></td><td>Total Value Locked for v4</td></tr><tr><td><code>=gas &#x3C;network></code></td><td>Check gas conditions on specified network</td></tr><tr><td><code>=weekly</code></td><td>Shows statistics for the last 7 days.</td></tr><tr><td><code>=yield</code></td><td>Returns statistics about the yield earned.</td></tr></tbody></table>
 
 _For any bugs or feature requests, message `underthesea#4658`_
 

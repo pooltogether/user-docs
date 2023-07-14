@@ -35,10 +35,7 @@ If you already have cryptocurrency in your wallet, you can easily swap any other
 * [Matcha](https://matcha.xyz/markets/10/0x7f5c764cbc14f9669b88837ca1490cca17c31607) (aggregates to find the best price)&#x20;
 * [Zapper](https://zapper.fi/exchange) (aggregates to find the best price)
 
-| Ticker | Chain    | Contract Address                             |
-| ------ | -------- | -------------------------------------------- |
-| USDC   | Optimism | `0x7F5c764cBc14f9669B88837ca1490cCa17c31607` |
-| ETH    | Optimism | `0x4200000000000000000000000000000000000006` |
+<table><thead><tr><th width="150">Ticker</th><th width="150">Chain</th><th width="445.33333333333337">Contract Address</th></tr></thead><tbody><tr><td>USDC</td><td>Optimism</td><td><code>0x7F5c764cBc14f9669B88837ca1490cCa17c31607</code></td></tr><tr><td>ETH</td><td>Optimism</td><td><code>0x4200000000000000000000000000000000000006</code></td></tr></tbody></table>
 
 ### Fiat On-Ramps
 
