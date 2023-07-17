@@ -12,8 +12,6 @@
   * [Getting USDC & ETH on Optimism](pooltogether/pooltogether-on-optimism/getting-usdc-and-eth-on-optimism.md)
 * [PoolTogether on Polygon](pooltogether/using-pooltogether/README.md)
   * [Getting USDC on Polygon](pooltogether/using-pooltogether/getting-usdc-on-polygon.md)
-  * [How to Deposit (Portuguese)](pooltogether/using-pooltogether/how-to-deposit-portuguese.md)
-  * [How to Deposit (French)](pooltogether/using-pooltogether/how-to-deposit-french.md)
 * [Guides & How Tos](pooltogether/guides/README.md)
   * [Deposit Delegator](pooltogether/guides/deposit-delegator.md)
   * [Setting up Prize Notifications](pooltogether/guides/setting-up-prize-notifications.md)
