@@ -8,7 +8,7 @@ To use PoolTogether on Polygon, you need the USDC token on the Polygon network a
 
 ### How to Deposit
 
-Head to the Deposit tab in the PoolTogether App or [follow this link](https://app.pooltogether.com/deposit?network=polygon). Click on "Deposit to win" and choose the Optimism prize pool.
+Head to the Deposit tab in the PoolTogether App or [follow this link](https://app.pooltogether.com/deposit?network=polygon). Click on "Deposit to win" and choose the Polygon prize pool.
 
 <details>
 
