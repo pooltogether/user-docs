@@ -38,5 +38,5 @@ Never share your Seed or Recovery Phrase with anybody.
 
 ### Prize Notifications
 
-[Telegram](https://t.me/PTWinsTracker\_bot)⏐[Discord](guides/setting-up-prize-notifications.md#prize-notifications-on-discord)
+* [Setting up Prize Notifications](links.md#prize-notifications)
 
