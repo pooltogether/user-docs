@@ -6,12 +6,6 @@ description: >-
 
 # PT Budget Requests
 
-#### **Quick links:**
-
-* [Discord #contribute channel](https://discord.com/channels/629836507280048129/862701391151890453)
-* [Onchain Proposals with Tally](https://www.tally.xyz/gov/pooltogether)
-* [Treasury Funds](https://info.pooltogether.com/treasury)
-
 ## Overview
 
 The PoolTogether Budget Request process helps coordinate funding for teams, developers, and anyone else who wishes to contribute to the PoolTogether protocol.
@@ -21,6 +15,12 @@ It's a culture in the sense that this process is mostly social conventions: abou
 Contributors funded through PTBRs are collectively called the "[Council](../governance-roles.md#council)". It's a dynamic group of people that consists of the actively compensated contributors. The Council meets weekly to coordinate. If you wish to listen in on any of these calls, it's open to anyone. Just ask for the `@Council Auditor` role on Discord.
 
 If you want to contribute to PoolTogether and need funding, then this process is for you.
+
+#### **Quick links:**
+
+* [Discord #contribute channel](https://discord.com/channels/629836507280048129/862701391151890453)
+* [Onchain Proposals with Tally](https://www.tally.xyz/gov/pooltogether)
+* [Treasury Funds](https://info.pooltogether.com/treasury)
 
 ## How it Works
 
@@ -95,7 +95,7 @@ The Council meets weekly to give status updates and have general discussion. Mee
 
 See the [Governance Calendar](https://docs.pooltogether.com/pooltogether/governance/governance-calendar) to see when Council calls are held.
 
-Anyone can listen in on Council calls by requesting the `@CouncilAuditor` role.
+Anyone can listen in on Council calls by requesting the `@Council Auditor` role.
 
 ## Summary
 

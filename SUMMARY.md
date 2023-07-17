@@ -30,7 +30,6 @@
   * [Governance Roles](pooltogether/governance/governance-roles.md)
   * [Protocol Constitution](pooltogether/governance/protocol-constitution.md)
   * [Governance Calendar](pooltogether/governance/governance-calendar.md)
-  * [pPOOL Gasless Voting](pooltogether/governance/ppool-gasless-voting.md)
 * [POOL Token](pooltogether/pool-token/README.md)
   * [Tokenomics](pooltogether/pool-token/tokenomics-and-governance.md)
   * [POOL Supply](pooltogether/pool-token/pool-supply.md)

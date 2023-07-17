@@ -41,31 +41,20 @@ Once submitted, the forum discussion should be open for feedback from the commun
 
 After applying potential community feedback to the proposal, the proposer should:
 
-* create a new [forum discussion](https://gov.pooltogether.com/) in the [appropriate category](https://www.notion.so/626fb3991e824960a541fa6928c23420)
+* create a new [forum discussion](https://gov.pooltogether.com/) in the appropriate category
 * flag the RFC-thread to be locked
-* state the changes made to the initial RFC
+* state the changes made to the initial RFC in the finished proposal
 
-and leave the topic open for at least **24 hours**, before submitting the proposal onchain and creating the corresponding Snapshot.
+and leave the topic open for at least **24 hours**, before submitting the proposal onchain.
 
 ### 3. Onchain Proposal
 
 When it comes time to create an onchain proposal, the proposer must:
 
 1. Create a new [onchain proposal](https://vote.pooltogether.com/), matching the specification outlined in the forum post
-2. Create a corresponding [POOL Pool Snapshot](https://snapshot.page/#/poolpool.pooltogether.eth) vote for the proposal
-3. Update the forum post with links to the onchain proposal and snapshot vote
+2. Update the forum post with links to the onchain proposal and snapshot vote
 
 The details of the PoolTogether Governance system are described [here](../voting-and-delegation-101.md).
-
-<details>
-
-<summary>What is the POOL Pool Snapshot for?</summary>
-
-The POOL Pool Snapshot allows POOL pool ticket holders to participate in proposal voting.&#x20;
-
-This pool’s voting power is delegated to a multi-sig whose signers are community members. When there is an onchain proposal there must be a corresponding vote in the POOL Pool Snapshot. The multi-sig must vote according to the result of the POOL Pool Snapshot. [Learn more](../ppool-gasless-voting.md).
-
-</details>
 
 ### Voting
 
