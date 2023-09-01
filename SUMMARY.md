@@ -6,7 +6,7 @@
 * [Frequently Asked Questions](welcome/faq.md)
 * [Getting Started](welcome/getting-started.md)
 
-## PoolTogether
+## PoolTogether V4 <a href="#pooltogether" id="pooltogether"></a>
 
 * [PoolTogether on Optimism](pooltogether/pooltogether-on-optimism/README.md)
   * [Getting USDC & ETH on Optimism](pooltogether/pooltogether-on-optimism/getting-usdc-and-eth-on-optimism.md)
