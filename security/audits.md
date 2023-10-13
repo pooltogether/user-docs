@@ -1,19 +1,29 @@
 # Audits
 
-The contracts making up the PoolTogether protocol have been audited by several independent third parties, some of these audit reports are listed below:&#x20;
+The contracts making up the PoolTogether protocol have been audited by several independent third parties, some of these audit reports are listed below:
 
-* **Aave V3 Yield Source** (2022-06-23): [https://code4rena.com/reports/2022-04-pooltogether/](https://code4rena.com/reports/2022-04-pooltogether/)
-* **TwabDelegator** (2022-04-19): [https://code4rena.com/reports/2022-02-pooltogether/](https://code4rena.com/reports/2022-02-pooltogether/)
-* **TwabRewards** (2022-02-03): [https://code4rena.com/reports/2021-12-pooltogether/](https://code4rena.com/reports/2021-12-pooltogether/)
-* **PoolTogether V4** (2021-11-05) [https://code4rena.com/reports/2021-10-pooltogether](https://code4rena.com/reports/2021-10-pooltogether)
-* **Swappable Yield Source** (2021-09-15): [https://code4rena.com/reports/2021-07-pooltogether/](https://code4rena.com/reports/2021-07-pooltogether/)
-* **PoolTogether V3.4** (2021-09-16): [https://code4rena.com/reports/2021-06-pooltogether](https://code4rena.com/reports/2021-06-pooltogether)
-* **Sushi & Yearn V2 Yield Sources** (May 2021): [https://consensys.net/diligence/audits/2021/05/pooltogether-sushi-and-yearn-v2-yield-sources/](https://consensys.net/diligence/audits/2021/05/pooltogether-sushi-and-yearn-v2-yield-sources/)
-* **Pods V3** (March 2021): [https://consensys.net/diligence/audits/2021/03/pooltogether-pods/](https://consensys.net/diligence/audits/2021/03/pooltogether-pods/)
-* **PoolTogether Governance** (Feb 2021): [https://consensys.net/diligence/audits/2021/02/pooltogether/](https://consensys.net/diligence/audits/2021/02/pooltogether/)
-* **LootBox and Prize Strategy** (Nov 2020):\
-  [https://consensys.net/diligence/audits/2020/11/pooltogether-lootbox-and-multiplewinners-strategy/](https://consensys.net/diligence/audits/2020/11/pooltogether-lootbox-and-multiplewinners-strategy/)
-* **PoolTogether V3** (2020-10-21): [Open Zeppelin Audit](https://blog.openzeppelin.com/pooltogether-v3-audit/)
+## PoolTogether V5
+
+* [**0xMacro: PrizePool + TwabController**](https://0xmacro.com/library/audits/pooltogether-1) (September 2023)
+* [**C4: PoolTogether V5 Part Two**](https://code4rena.com/reports/2023-08-pooltogether) (September 2023)
+* [**C4: PoolTogether V5**](https://code4rena.com/reports/2023-07-pooltogether) (September 2023)
+* [**C4: ERC-5164**](https://code4rena.com/reports/2022-12-pooltogether) (January 2023)
+
+## PoolTogether V4
+
+* [**C4: Aave V3 Yield Source**](https://code4rena.com/reports/2022-04-pooltogether/) (June 2022)
+* [**C4: TwabDelegator**](https://code4rena.com/reports/2022-02-pooltogether/) (April 2022)
+* [**C4: TwabRewards**](https://code4rena.com/reports/2021-12-pooltogether/) (February 2022)
+* [**C4: PoolTogether V4**](https://code4rena.com/reports/2021-10-pooltogether) (November 2021)
+
+## PoolTogether V3
+* [**C4: Swappable Yield Source**](https://code4rena.com/reports/2021-07-pooltogether/) (September 2021)
+* [**C4: PoolTogether V3.4**](https://code4rena.com/reports/2021-06-pooltogether) (September 2021)
+* [**Consensys: Sushi & Yearn V2 Yield Sources**](https://consensys.net/diligence/audits/2021/05/pooltogether-sushi-and-yearn-v2-yield-sources/) (May 2021)
+* [**Consensys: Pods V3**](https://consensys.net/diligence/audits/2021/03/pooltogether-pods/) (March 2021)
+* [**Consensys: PoolTogether Governance**](https://consensys.net/diligence/audits/2021/02/pooltogether/) (February 2021)
+* [**Consensys: LootBox and Prize Strategy**](https://consensys.net/diligence/audits/2020/11/pooltogether-lootbox-and-multiplewinners-strategy/) (November 2020)
+* [**OpenZeppelin: PoolTogether V3**](https://blog.openzeppelin.com/pooltogether-v3-audit/) (October 2020)
 
 Notwithstanding, portions of the PoolTogether Protocol codebase will continue to evolve and **it should never be expected that 100% of the deployed code has been formally audited.**
 
