@@ -2,6 +2,11 @@
 
 The contracts making up the PoolTogether protocol have been audited by several independent third parties, some of these audit reports are listed below:&#x20;
 
+* **PoolTogether V5** (Part 1: July 2023): \
+  [https://code4rena.com/reports/2023-07-pooltogether](https://code4rena.com/reports/2023-07-pooltogether)&#x20;
+* **PoolTogether V5** (Part 2: August 2023):\
+  [https://code4rena.com/reports/2023-08-pooltogether](https://code4rena.com/reports/2023-08-pooltogether)&#x20;
+* **PoolTogether V5 Prize Pool & TWAB Controller** (2023-09-19): [https://0xmacro.com/library/audits/pooltogether-1](https://0xmacro.com/library/audits/pooltogether-1)
 * **Aave V3 Yield Source** (2022-06-23): [https://code4rena.com/reports/2022-04-pooltogether/](https://code4rena.com/reports/2022-04-pooltogether/)
 * **TwabDelegator** (2022-04-19): [https://code4rena.com/reports/2022-02-pooltogether/](https://code4rena.com/reports/2022-02-pooltogether/)
 * **TwabRewards** (2022-02-03): [https://code4rena.com/reports/2021-12-pooltogether/](https://code4rena.com/reports/2021-12-pooltogether/)
