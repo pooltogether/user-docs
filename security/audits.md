@@ -1,7 +1,5 @@
 # Audits
 
-## Audits
-
 The contracts making up the PoolTogether protocol have been audited by several independent third parties, some of these audit reports are listed below:
 
 ### PoolTogether V5
