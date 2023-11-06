@@ -50,6 +50,6 @@
 
 ***
 
-* [Join our Discord](https://www.pooltogether.com/discord)
-* [Feature Requests](https://pooltogether.canny.io/feature-requests)
+* [PoolTogether Discord](https://www.pooltogether.com/discord)
 * [Developer Documentation](https://v4.docs.pooltogether.com/protocol/introduction/)
+* [Brand Kit](https://www.figma.com/community/file/1212805243917604494)

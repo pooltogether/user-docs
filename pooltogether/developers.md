@@ -4,7 +4,13 @@ description: Developer Resources for PoolTogether
 
 # Developers
 
-## Developer Portal
+## PoolTogether V5
+
+The PoolTogether V5 developer portal includes information about the protocol design, its deployments, a variety of guides to interact with V5, and more.&#x20;
+
+Find it here: [https://dev.pooltogether.com](https://dev.pooltogether.com)
+
+## PoolTogether V5
 
 The PoolTogether V4 developer portal includes:
 
@@ -12,7 +18,7 @@ The PoolTogether V4 developer portal includes:
 * API Reference
 * Tutorials
 
-Check it out at [dev.pooltogether.com](https://dev.pooltogether.com)
+Check it out at [https://dev.pooltogether.com/protocol/V4/introduction](https://dev.pooltogether.com/protocol/V4/introduction)
 
 ## **Legacy Documentation**
 
