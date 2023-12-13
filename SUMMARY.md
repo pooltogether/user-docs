@@ -8,6 +8,7 @@
 
 ## PoolTogether V5 <a href="#v5" id="v5"></a>
 
+* [Use PoolTogether V5](https://pooltogether.com/interfaces)
 * [V5 Developer Docs](https://dev.pooltogether.com)
 * [Cabana.fi Docs](https://docs.cabana.fi)
 
