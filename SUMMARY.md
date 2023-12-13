@@ -6,6 +6,11 @@
 * [Frequently Asked Questions](welcome/faq.md)
 * [Getting Started](welcome/getting-started.md)
 
+## PoolTogether V5 <a href="#v5" id="v5"></a>
+
+* [V5 Developer Docs](https://dev.pooltogether.com)
+* [Cabana.fi Docs](https://docs.cabana.fi)
+
 ## PoolTogether V4 <a href="#pooltogether" id="pooltogether"></a>
 
 * [PoolTogether on Optimism](pooltogether/pooltogether-on-optimism/README.md)
@@ -36,8 +41,8 @@
   * [Tokenomics](pooltogether/pool-token/tokenomics-and-governance.md)
   * [POOL Supply](pooltogether/pool-token/pool-supply.md)
   * [Getting POOL Tokens](pooltogether/pool-token/get-pool-tokens.md)
-* [Developers](pooltogether/developers.md)
 * [Ecosystem & Links](pooltogether/links.md)
+* [Developers](pooltogether/developers.md)
 
 ## Security
 
@@ -47,8 +52,6 @@
 * [Bug Bounties](security/bug-bounties.md)
 
 ## Dive Deeper
-
-***
 
 * [PoolTogether Discord](https://www.pooltogether.com/discord)
 * [Developer Documentation](https://v4.docs.pooltogether.com/protocol/introduction/)

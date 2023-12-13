@@ -12,7 +12,7 @@ PoolTogether is a [prize savings](https://en.wikipedia.org/wiki/Prize-linked\_sa
 
 Every dollar you deposit gives you a chance to win prizes. The more you save, the higher your odds!
 
-PoolTogether is one of the first and most widely used DeFi (_Decentralized Finance_) applications and has been **live for over three years.** Since its inception, the protocol distributed over $5 million in prizes to depositors. [The luckiest winner so far deposited $74 and won over $40,000](https://decrypt.co/66354/crypto-no-loss-lottery-winner-turns-74-into-40000).
+PoolTogether is one of the first and most widely used DeFi (_Decentralized Finance_) applications and has been **live for over four years.** Since its inception, the protocol distributed over $10 million in prizes to depositors. [The luckiest winner so far deposited $74 and won over $40,000](https://decrypt.co/66354/crypto-no-loss-lottery-winner-turns-74-into-40000).
 
 ### How does it work?
 
@@ -44,7 +44,7 @@ No one but you has access to your deposited funds. PoolTogether is non-custodial
 
 #### Open-source & secure
 
-The protocol is made up of computer software: smart contracts living on the blockchain. The [code is open-source](https://github.com/pooltogether/) for everyone to verify and validate. On top of that PoolTogether undergoes regular [audits](security/audits.md).
+The protocol is made up of computer software: smart contracts living on the blockchain. The [code is open-source](https://github.com/pooltogether/) for everyone to verify and validate. On top of that, PoolTogether undergoes regular [audits](security/audits.md).
 
 #### Decentralized
 
