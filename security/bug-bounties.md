@@ -1,14 +1,14 @@
 ---
 description: >-
-  We encourage responsible disclosure of any vulnerabilities in the smart
-  contracts and will pay up to $25,000 for those.
+  We encourage responsible disclosure of any smart contract vulnerabilities and
+  will pay up to $22,727 for those.
 ---
 
 # Bug Bounties
 
-We offer public security bug bounties to incentivize vulnerability disclosures by anyone. See Dework for the bounty details:
+Generation Software Inc. collaborates with Immunefi on a public bug bounty program to incentivize vulnerability disclosures by anyone. Please adhere to the PoolTogether bug bounty program overview on Immunefi to learn all about the rules and details for the bug bounty, including assets and impacts in scope, out-of-scope activities, limitations, etc.
 
-{% embed url="https://app.dework.xyz/pooltogether/pool-bounties?taskId=5502ecb8-83fc-4e05-813a-d0f33d348392" %}
+{% embed url="https://immunefi.com/bug-bounty/pooltogether/" %}
 
 ## Past Bounties
 
