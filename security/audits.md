@@ -4,6 +4,7 @@ The contracts making up the PoolTogether protocol have been audited by several i
 
 ### PoolTogether V5
 
+* [**Sherlock: PoolTogether V5**](https://audits.sherlock.xyz/contests/225) (June 2024)
 * [**C4: PoolTogether Prize Vaults**](https://code4rena.com/reports/2024-03-pooltogether) (March 2024)
 * [**0xMacro: PrizePool + TwabController**](https://0xmacro.com/library/audits/pooltogether-1) (September 2023)
 * [**C4: PoolTogether V5 Part Two**](https://code4rena.com/reports/2023-08-pooltogether) (September 2023)
